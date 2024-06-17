@@ -3,5 +3,5 @@ def perimeter(length, breadth):
     return p
 
 def area(length, breadth):
-    p =  length * breadth
-    return p
+    a =  length * breadth
+    return a
